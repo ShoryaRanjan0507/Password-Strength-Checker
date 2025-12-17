@@ -18,7 +18,7 @@ A terminal-based Python program that checks the strength of a user-entered passw
 
 ## How to Run
 1. Make sure Python is installed on your system
-2. Clone this repository or download the files
+2. Copy this repository or download the files
 3. Run the program using:
 python password_checker.py
 
